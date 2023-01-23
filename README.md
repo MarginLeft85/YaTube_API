@@ -24,7 +24,7 @@ SQLight 3
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```commandline
-git clone https://github.com/as-devhub/api_final_yatube.git
+git clone https://github.com/smirnov-andrey/YaTube_API
 ```
 
 ```commandline
